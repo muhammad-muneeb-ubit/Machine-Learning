@@ -1,0 +1,1001 @@
+JobTitle,Experience,Salary
+Software Engineer,1,69000
+Software Engineer,1,74500
+Software Engineer,1,67500
+Software Engineer,1,69500
+Software Engineer,1,72000
+Software Engineer,2,82500
+Software Engineer,2,82500
+Software Engineer,2,88500
+Software Engineer,2,86500
+Software Engineer,2,83000
+Software Engineer,3,100500
+Software Engineer,3,102500
+Software Engineer,3,98000
+Software Engineer,3,105000
+Software Engineer,3,101500
+Software Engineer,4,115000
+Software Engineer,4,113500
+Software Engineer,4,113500
+Software Engineer,4,116500
+Software Engineer,4,116500
+Software Engineer,5,129000
+Software Engineer,5,130500
+Software Engineer,5,129000
+Software Engineer,5,133000
+Software Engineer,5,132000
+Software Engineer,6,144500
+Software Engineer,6,151000
+Software Engineer,6,148500
+Software Engineer,6,145000
+Software Engineer,6,152000
+Software Engineer,7,161500
+Software Engineer,7,164500
+Software Engineer,7,164500
+Software Engineer,7,164500
+Software Engineer,7,167500
+Software Engineer,8,175500
+Software Engineer,8,179500
+Software Engineer,8,180000
+Software Engineer,8,178000
+Software Engineer,8,175500
+Software Engineer,9,198500
+Software Engineer,9,192500
+Software Engineer,9,191000
+Software Engineer,9,195000
+Software Engineer,9,197500
+Software Engineer,10,207000
+Software Engineer,10,208500
+Software Engineer,10,209500
+Software Engineer,10,207000
+Software Engineer,10,210500
+ML Engineer,1,95500
+ML Engineer,1,103000
+ML Engineer,1,98500
+ML Engineer,1,102500
+ML Engineer,1,96500
+ML Engineer,2,113500
+ML Engineer,2,121500
+ML Engineer,2,121500
+ML Engineer,2,115000
+ML Engineer,2,118000
+ML Engineer,3,132000
+ML Engineer,3,139500
+ML Engineer,3,131500
+ML Engineer,3,139500
+ML Engineer,3,131500
+ML Engineer,4,152500
+ML Engineer,4,157000
+ML Engineer,4,157500
+ML Engineer,4,156000
+ML Engineer,4,154000
+ML Engineer,5,175000
+ML Engineer,5,177000
+ML Engineer,5,175000
+ML Engineer,5,173500
+ML Engineer,5,172500
+ML Engineer,6,190000
+ML Engineer,6,189000
+ML Engineer,6,190000
+ML Engineer,6,187500
+ML Engineer,6,195500
+ML Engineer,7,209500
+ML Engineer,7,213000
+ML Engineer,7,212500
+ML Engineer,7,210000
+ML Engineer,7,212000
+ML Engineer,8,227500
+ML Engineer,8,233000
+ML Engineer,8,224000
+ML Engineer,8,225000
+ML Engineer,8,231500
+ML Engineer,9,248500
+ML Engineer,9,244000
+ML Engineer,9,247000
+ML Engineer,9,244000
+ML Engineer,9,249500
+ML Engineer,10,267000
+ML Engineer,10,260500
+ML Engineer,10,261500
+ML Engineer,10,269000
+ML Engineer,10,269500
+Data Scientist,1,93000
+Data Scientist,1,93500
+Data Scientist,1,93500
+Data Scientist,1,96000
+Data Scientist,1,95500
+Data Scientist,2,106500
+Data Scientist,2,107000
+Data Scientist,2,110000
+Data Scientist,2,113500
+Data Scientist,2,106500
+Data Scientist,3,124000
+Data Scientist,3,128000
+Data Scientist,3,130500
+Data Scientist,3,127500
+Data Scientist,3,129500
+Data Scientist,4,146000
+Data Scientist,4,141000
+Data Scientist,4,148000
+Data Scientist,4,146500
+Data Scientist,4,143500
+Data Scientist,5,160000
+Data Scientist,5,166000
+Data Scientist,5,159000
+Data Scientist,5,161500
+Data Scientist,5,162500
+Data Scientist,6,177500
+Data Scientist,6,179500
+Data Scientist,6,182000
+Data Scientist,6,182000
+Data Scientist,6,183500
+Data Scientist,7,194500
+Data Scientist,7,195500
+Data Scientist,7,200500
+Data Scientist,7,199500
+Data Scientist,7,197500
+Data Scientist,8,212500
+Data Scientist,8,217500
+Data Scientist,8,215000
+Data Scientist,8,217500
+Data Scientist,8,216500
+Data Scientist,9,234000
+Data Scientist,9,232000
+Data Scientist,9,230500
+Data Scientist,9,229500
+Data Scientist,9,231000
+Data Scientist,10,248000
+Data Scientist,10,249500
+Data Scientist,10,249500
+Data Scientist,10,245500
+Data Scientist,10,253500
+Data Analyst,1,61000
+Data Analyst,1,57500
+Data Analyst,1,58000
+Data Analyst,1,58500
+Data Analyst,1,56000
+Data Analyst,2,66000
+Data Analyst,2,68500
+Data Analyst,2,69500
+Data Analyst,2,68000
+Data Analyst,2,70000
+Data Analyst,3,78500
+Data Analyst,3,76500
+Data Analyst,3,75000
+Data Analyst,3,79500
+Data Analyst,3,78000
+Data Analyst,4,88000
+Data Analyst,4,88500
+Data Analyst,4,88500
+Data Analyst,4,83500
+Data Analyst,4,86500
+Data Analyst,5,97500
+Data Analyst,5,96500
+Data Analyst,5,95000
+Data Analyst,5,95500
+Data Analyst,5,95500
+Data Analyst,6,104000
+Data Analyst,6,102000
+Data Analyst,6,105000
+Data Analyst,6,106000
+Data Analyst,6,104500
+Data Analyst,7,110500
+Data Analyst,7,111500
+Data Analyst,7,110500
+Data Analyst,7,111500
+Data Analyst,7,113500
+Data Analyst,8,120500
+Data Analyst,8,120000
+Data Analyst,8,122000
+Data Analyst,8,124000
+Data Analyst,8,119500
+Data Analyst,9,129000
+Data Analyst,9,128000
+Data Analyst,9,132500
+Data Analyst,9,129000
+Data Analyst,9,132500
+Data Analyst,10,138000
+Data Analyst,10,140000
+Data Analyst,10,142000
+Data Analyst,10,137000
+Data Analyst,10,137500
+DevOps Engineer,1,82000
+DevOps Engineer,1,76500
+DevOps Engineer,1,80000
+DevOps Engineer,1,78000
+DevOps Engineer,1,76000
+DevOps Engineer,2,94000
+DevOps Engineer,2,91000
+DevOps Engineer,2,97000
+DevOps Engineer,2,92000
+DevOps Engineer,2,94000
+DevOps Engineer,3,106000
+DevOps Engineer,3,107000
+DevOps Engineer,3,104000
+DevOps Engineer,3,104000
+DevOps Engineer,3,110000
+DevOps Engineer,4,121000
+DevOps Engineer,4,121000
+DevOps Engineer,4,121000
+DevOps Engineer,4,121000
+DevOps Engineer,4,119500
+DevOps Engineer,5,131500
+DevOps Engineer,5,132000
+DevOps Engineer,5,132000
+DevOps Engineer,5,137000
+DevOps Engineer,5,134000
+DevOps Engineer,6,151000
+DevOps Engineer,6,147000
+DevOps Engineer,6,149000
+DevOps Engineer,6,152000
+DevOps Engineer,6,150500
+DevOps Engineer,7,160500
+DevOps Engineer,7,163000
+DevOps Engineer,7,159000
+DevOps Engineer,7,160500
+DevOps Engineer,7,167000
+DevOps Engineer,8,181000
+DevOps Engineer,8,177500
+DevOps Engineer,8,176000
+DevOps Engineer,8,174000
+DevOps Engineer,8,178500
+DevOps Engineer,9,191500
+DevOps Engineer,9,194500
+DevOps Engineer,9,187000
+DevOps Engineer,9,193000
+DevOps Engineer,9,191500
+DevOps Engineer,10,203500
+DevOps Engineer,10,206500
+DevOps Engineer,10,208000
+DevOps Engineer,10,201500
+DevOps Engineer,10,206500
+Backend Developer,1,74500
+Backend Developer,1,70000
+Backend Developer,1,72000
+Backend Developer,1,70500
+Backend Developer,1,75000
+Backend Developer,2,82500
+Backend Developer,2,84000
+Backend Developer,2,87500
+Backend Developer,2,83000
+Backend Developer,2,85500
+Backend Developer,3,99000
+Backend Developer,3,101000
+Backend Developer,3,99000
+Backend Developer,3,97500
+Backend Developer,3,100000
+Backend Developer,4,110000
+Backend Developer,4,113000
+Backend Developer,4,115000
+Backend Developer,4,114500
+Backend Developer,4,114500
+Backend Developer,5,128500
+Backend Developer,5,123500
+Backend Developer,5,128500
+Backend Developer,5,123500
+Backend Developer,5,128500
+Backend Developer,6,138500
+Backend Developer,6,141500
+Backend Developer,6,142000
+Backend Developer,6,137000
+Backend Developer,6,137000
+Backend Developer,7,153000
+Backend Developer,7,152500
+Backend Developer,7,151500
+Backend Developer,7,154500
+Backend Developer,7,149000
+Backend Developer,8,162500
+Backend Developer,8,168500
+Backend Developer,8,164500
+Backend Developer,8,166000
+Backend Developer,8,164500
+Backend Developer,9,177500
+Backend Developer,9,181500
+Backend Developer,9,180500
+Backend Developer,9,178500
+Backend Developer,9,179500
+Backend Developer,10,196000
+Backend Developer,10,195000
+Backend Developer,10,192000
+Backend Developer,10,192000
+Backend Developer,10,190000
+Frontend Developer,1,62500
+Frontend Developer,1,61500
+Frontend Developer,1,62500
+Frontend Developer,1,64500
+Frontend Developer,1,62000
+Frontend Developer,2,75500
+Frontend Developer,2,74000
+Frontend Developer,2,76500
+Frontend Developer,2,77500
+Frontend Developer,2,77500
+Frontend Developer,3,91500
+Frontend Developer,3,84500
+Frontend Developer,3,88500
+Frontend Developer,3,90000
+Frontend Developer,3,87500
+Frontend Developer,4,103000
+Frontend Developer,4,102000
+Frontend Developer,4,97000
+Frontend Developer,4,103500
+Frontend Developer,4,102000
+Frontend Developer,5,109500
+Frontend Developer,5,111500
+Frontend Developer,5,115000
+Frontend Developer,5,114500
+Frontend Developer,5,114500
+Frontend Developer,6,122000
+Frontend Developer,6,124500
+Frontend Developer,6,122000
+Frontend Developer,6,124000
+Frontend Developer,6,127000
+Frontend Developer,7,137500
+Frontend Developer,7,135000
+Frontend Developer,7,133000
+Frontend Developer,7,139000
+Frontend Developer,7,138500
+Frontend Developer,8,147500
+Frontend Developer,8,148500
+Frontend Developer,8,148000
+Frontend Developer,8,150500
+Frontend Developer,8,145000
+Frontend Developer,9,162500
+Frontend Developer,9,158000
+Frontend Developer,9,158000
+Frontend Developer,9,157500
+Frontend Developer,9,156500
+Frontend Developer,10,169500
+Frontend Developer,10,173500
+Frontend Developer,10,172500
+Frontend Developer,10,175000
+Frontend Developer,10,174000
+Full Stack Developer,1,71500
+Full Stack Developer,1,75500
+Full Stack Developer,1,77500
+Full Stack Developer,1,75500
+Full Stack Developer,1,74500
+Full Stack Developer,2,90500
+Full Stack Developer,2,92500
+Full Stack Developer,2,88000
+Full Stack Developer,2,86500
+Full Stack Developer,2,89500
+Full Stack Developer,3,104000
+Full Stack Developer,3,100500
+Full Stack Developer,3,99500
+Full Stack Developer,3,99500
+Full Stack Developer,3,106000
+Full Stack Developer,4,122000
+Full Stack Developer,4,120000
+Full Stack Developer,4,119500
+Full Stack Developer,4,115000
+Full Stack Developer,4,118500
+Full Stack Developer,5,134500
+Full Stack Developer,5,136000
+Full Stack Developer,5,129500
+Full Stack Developer,5,132000
+Full Stack Developer,5,135500
+Full Stack Developer,6,144500
+Full Stack Developer,6,150000
+Full Stack Developer,6,150000
+Full Stack Developer,6,144500
+Full Stack Developer,6,143000
+Full Stack Developer,7,159500
+Full Stack Developer,7,159000
+Full Stack Developer,7,160000
+Full Stack Developer,7,161500
+Full Stack Developer,7,159500
+Full Stack Developer,8,178500
+Full Stack Developer,8,177000
+Full Stack Developer,8,174500
+Full Stack Developer,8,174000
+Full Stack Developer,8,176500
+Full Stack Developer,9,190000
+Full Stack Developer,9,193500
+Full Stack Developer,9,187500
+Full Stack Developer,9,187000
+Full Stack Developer,9,194000
+Full Stack Developer,10,207000
+Full Stack Developer,10,204000
+Full Stack Developer,10,208500
+Full Stack Developer,10,205000
+Full Stack Developer,10,206500
+Data Engineer,1,90500
+Data Engineer,1,89000
+Data Engineer,1,90000
+Data Engineer,1,84000
+Data Engineer,1,90500
+Data Engineer,2,101000
+Data Engineer,2,107000
+Data Engineer,2,107000
+Data Engineer,2,99000
+Data Engineer,2,105500
+Data Engineer,3,118000
+Data Engineer,3,115000
+Data Engineer,3,117500
+Data Engineer,3,118000
+Data Engineer,3,117500
+Data Engineer,4,139500
+Data Engineer,4,133500
+Data Engineer,4,132500
+Data Engineer,4,137000
+Data Engineer,4,140000
+Data Engineer,5,156500
+Data Engineer,5,156000
+Data Engineer,5,149500
+Data Engineer,5,149000
+Data Engineer,5,152000
+Data Engineer,6,167500
+Data Engineer,6,169000
+Data Engineer,6,165000
+Data Engineer,6,166000
+Data Engineer,6,173000
+Data Engineer,7,188500
+Data Engineer,7,181500
+Data Engineer,7,182000
+Data Engineer,7,188500
+Data Engineer,7,186500
+Data Engineer,8,206000
+Data Engineer,8,206000
+Data Engineer,8,201000
+Data Engineer,8,202000
+Data Engineer,8,205000
+Data Engineer,9,222500
+Data Engineer,9,222500
+Data Engineer,9,222000
+Data Engineer,9,222500
+Data Engineer,9,218000
+Data Engineer,10,239000
+Data Engineer,10,235000
+Data Engineer,10,234000
+Data Engineer,10,238000
+Data Engineer,10,232500
+Product Manager,1,96000
+Product Manager,1,91000
+Product Manager,1,95500
+Product Manager,1,96000
+Product Manager,1,94000
+Product Manager,2,106000
+Product Manager,2,109000
+Product Manager,2,112000
+Product Manager,2,106000
+Product Manager,2,108500
+Product Manager,3,126000
+Product Manager,3,123000
+Product Manager,3,123500
+Product Manager,3,127000
+Product Manager,3,123500
+Product Manager,4,141000
+Product Manager,4,139000
+Product Manager,4,144500
+Product Manager,4,140500
+Product Manager,4,138500
+Product Manager,5,159500
+Product Manager,5,161000
+Product Manager,5,155500
+Product Manager,5,156500
+Product Manager,5,155500
+Product Manager,6,176000
+Product Manager,6,177500
+Product Manager,6,175500
+Product Manager,6,174500
+Product Manager,6,176000
+Product Manager,7,188000
+Product Manager,7,191000
+Product Manager,7,190000
+Product Manager,7,186500
+Product Manager,7,191000
+Product Manager,8,201500
+Product Manager,8,206500
+Product Manager,8,210000
+Product Manager,8,208500
+Product Manager,8,208000
+Product Manager,9,217500
+Product Manager,9,223500
+Product Manager,9,222500
+Product Manager,9,225500
+Product Manager,9,222000
+Product Manager,10,241500
+Product Manager,10,234000
+Product Manager,10,235000
+Product Manager,10,236500
+Product Manager,10,234500
+QA Engineer,1,51500
+QA Engineer,1,53000
+QA Engineer,1,53000
+QA Engineer,1,51000
+QA Engineer,1,52000
+QA Engineer,2,61500
+QA Engineer,2,60500
+QA Engineer,2,62500
+QA Engineer,2,64500
+QA Engineer,2,61500
+QA Engineer,3,71000
+QA Engineer,3,69000
+QA Engineer,3,72000
+QA Engineer,3,72000
+QA Engineer,3,72500
+QA Engineer,4,80500
+QA Engineer,4,79000
+QA Engineer,4,77000
+QA Engineer,4,78500
+QA Engineer,4,76500
+QA Engineer,5,86000
+QA Engineer,5,88000
+QA Engineer,5,85500
+QA Engineer,5,87000
+QA Engineer,5,85000
+QA Engineer,6,98500
+QA Engineer,6,94000
+QA Engineer,6,95500
+QA Engineer,6,94000
+QA Engineer,6,98000
+QA Engineer,7,103500
+QA Engineer,7,102000
+QA Engineer,7,104000
+QA Engineer,7,102500
+QA Engineer,7,105500
+QA Engineer,8,110500
+QA Engineer,8,113000
+QA Engineer,8,114500
+QA Engineer,8,113500
+QA Engineer,8,112500
+QA Engineer,9,124000
+QA Engineer,9,120000
+QA Engineer,9,119000
+QA Engineer,9,123000
+QA Engineer,9,120500
+QA Engineer,10,128000
+QA Engineer,10,128500
+QA Engineer,10,129500
+QA Engineer,10,127500
+QA Engineer,10,128500
+Cloud Engineer,1,82500
+Cloud Engineer,1,84500
+Cloud Engineer,1,84500
+Cloud Engineer,1,82500
+Cloud Engineer,1,84000
+Cloud Engineer,2,102000
+Cloud Engineer,2,103000
+Cloud Engineer,2,97500
+Cloud Engineer,2,99000
+Cloud Engineer,2,100500
+Cloud Engineer,3,110500
+Cloud Engineer,3,114500
+Cloud Engineer,3,111000
+Cloud Engineer,3,110500
+Cloud Engineer,3,110500
+Cloud Engineer,4,134000
+Cloud Engineer,4,129000
+Cloud Engineer,4,133500
+Cloud Engineer,4,130000
+Cloud Engineer,4,133000
+Cloud Engineer,5,143000
+Cloud Engineer,5,148500
+Cloud Engineer,5,149500
+Cloud Engineer,5,147500
+Cloud Engineer,5,149500
+Cloud Engineer,6,162000
+Cloud Engineer,6,160500
+Cloud Engineer,6,160500
+Cloud Engineer,6,162500
+Cloud Engineer,6,160000
+Cloud Engineer,7,174500
+Cloud Engineer,7,179000
+Cloud Engineer,7,178000
+Cloud Engineer,7,173000
+Cloud Engineer,7,174500
+Cloud Engineer,8,188000
+Cloud Engineer,8,189000
+Cloud Engineer,8,192000
+Cloud Engineer,8,195000
+Cloud Engineer,8,190500
+Cloud Engineer,9,204000
+Cloud Engineer,9,204500
+Cloud Engineer,9,209500
+Cloud Engineer,9,211500
+Cloud Engineer,9,208000
+Cloud Engineer,10,223000
+Cloud Engineer,10,223500
+Cloud Engineer,10,219500
+Cloud Engineer,10,226500
+Cloud Engineer,10,222000
+Cybersecurity Analyst,1,79000
+Cybersecurity Analyst,1,81000
+Cybersecurity Analyst,1,84000
+Cybersecurity Analyst,1,76500
+Cybersecurity Analyst,1,81000
+Cybersecurity Analyst,2,97500
+Cybersecurity Analyst,2,96500
+Cybersecurity Analyst,2,96500
+Cybersecurity Analyst,2,95500
+Cybersecurity Analyst,2,92000
+Cybersecurity Analyst,3,111000
+Cybersecurity Analyst,3,109500
+Cybersecurity Analyst,3,112000
+Cybersecurity Analyst,3,109000
+Cybersecurity Analyst,3,106000
+Cybersecurity Analyst,4,126500
+Cybersecurity Analyst,4,127000
+Cybersecurity Analyst,4,122500
+Cybersecurity Analyst,4,128500
+Cybersecurity Analyst,4,125500
+Cybersecurity Analyst,5,144000
+Cybersecurity Analyst,5,139000
+Cybersecurity Analyst,5,140000
+Cybersecurity Analyst,5,144000
+Cybersecurity Analyst,5,136000
+Cybersecurity Analyst,6,152000
+Cybersecurity Analyst,6,155000
+Cybersecurity Analyst,6,152000
+Cybersecurity Analyst,6,153000
+Cybersecurity Analyst,6,157000
+Cybersecurity Analyst,7,166000
+Cybersecurity Analyst,7,172000
+Cybersecurity Analyst,7,165500
+Cybersecurity Analyst,7,170000
+Cybersecurity Analyst,7,170500
+Cybersecurity Analyst,8,184000
+Cybersecurity Analyst,8,181500
+Cybersecurity Analyst,8,182500
+Cybersecurity Analyst,8,186500
+Cybersecurity Analyst,8,185500
+Cybersecurity Analyst,9,203000
+Cybersecurity Analyst,9,197500
+Cybersecurity Analyst,9,199500
+Cybersecurity Analyst,9,197500
+Cybersecurity Analyst,9,195500
+Cybersecurity Analyst,10,218000
+Cybersecurity Analyst,10,216500
+Cybersecurity Analyst,10,218000
+Cybersecurity Analyst,10,212000
+Cybersecurity Analyst,10,218500
+Mobile App Developer,1,71500
+Mobile App Developer,1,69500
+Mobile App Developer,1,70000
+Mobile App Developer,1,72000
+Mobile App Developer,1,72000
+Mobile App Developer,2,85000
+Mobile App Developer,2,78500
+Mobile App Developer,2,85000
+Mobile App Developer,2,84000
+Mobile App Developer,2,83000
+Mobile App Developer,3,98000
+Mobile App Developer,3,98500
+Mobile App Developer,3,97000
+Mobile App Developer,3,97000
+Mobile App Developer,3,97000
+Mobile App Developer,4,109500
+Mobile App Developer,4,106000
+Mobile App Developer,4,105000
+Mobile App Developer,4,104500
+Mobile App Developer,4,104500
+Mobile App Developer,5,118500
+Mobile App Developer,5,122500
+Mobile App Developer,5,120500
+Mobile App Developer,5,118000
+Mobile App Developer,5,120500
+Mobile App Developer,6,137000
+Mobile App Developer,6,134000
+Mobile App Developer,6,135000
+Mobile App Developer,6,130500
+Mobile App Developer,6,135500
+Mobile App Developer,7,143500
+Mobile App Developer,7,148500
+Mobile App Developer,7,147500
+Mobile App Developer,7,149000
+Mobile App Developer,7,145500
+Mobile App Developer,8,160500
+Mobile App Developer,8,158500
+Mobile App Developer,8,156500
+Mobile App Developer,8,160000
+Mobile App Developer,8,163000
+Mobile App Developer,9,170000
+Mobile App Developer,9,175500
+Mobile App Developer,9,173500
+Mobile App Developer,9,176500
+Mobile App Developer,9,173500
+Mobile App Developer,10,183000
+Mobile App Developer,10,187500
+Mobile App Developer,10,186500
+Mobile App Developer,10,183000
+Mobile App Developer,10,188500
+Site Reliability Engineer,1,92000
+Site Reliability Engineer,1,88500
+Site Reliability Engineer,1,85500
+Site Reliability Engineer,1,88500
+Site Reliability Engineer,1,88000
+Site Reliability Engineer,2,104500
+Site Reliability Engineer,2,105000
+Site Reliability Engineer,2,108500
+Site Reliability Engineer,2,109000
+Site Reliability Engineer,2,107500
+Site Reliability Engineer,3,119000
+Site Reliability Engineer,3,125500
+Site Reliability Engineer,3,122500
+Site Reliability Engineer,3,118500
+Site Reliability Engineer,3,121000
+Site Reliability Engineer,4,136000
+Site Reliability Engineer,4,137000
+Site Reliability Engineer,4,140000
+Site Reliability Engineer,4,139000
+Site Reliability Engineer,4,139500
+Site Reliability Engineer,5,153500
+Site Reliability Engineer,5,151500
+Site Reliability Engineer,5,159500
+Site Reliability Engineer,5,152500
+Site Reliability Engineer,5,159500
+Site Reliability Engineer,6,172500
+Site Reliability Engineer,6,170000
+Site Reliability Engineer,6,172000
+Site Reliability Engineer,6,176000
+Site Reliability Engineer,6,173000
+Site Reliability Engineer,7,193500
+Site Reliability Engineer,7,189500
+Site Reliability Engineer,7,192500
+Site Reliability Engineer,7,192500
+Site Reliability Engineer,7,192500
+Site Reliability Engineer,8,203500
+Site Reliability Engineer,8,211000
+Site Reliability Engineer,8,205000
+Site Reliability Engineer,8,207000
+Site Reliability Engineer,8,203000
+Site Reliability Engineer,9,226500
+Site Reliability Engineer,9,219000
+Site Reliability Engineer,9,223500
+Site Reliability Engineer,9,226000
+Site Reliability Engineer,9,220000
+Site Reliability Engineer,10,243500
+Site Reliability Engineer,10,243000
+Site Reliability Engineer,10,240000
+Site Reliability Engineer,10,241500
+Site Reliability Engineer,10,239000
+AI Research Scientist,1,108500
+AI Research Scientist,1,106000
+AI Research Scientist,1,114500
+AI Research Scientist,1,106500
+AI Research Scientist,1,107500
+AI Research Scientist,2,134000
+AI Research Scientist,2,130000
+AI Research Scientist,2,131500
+AI Research Scientist,2,127500
+AI Research Scientist,2,135500
+AI Research Scientist,3,156500
+AI Research Scientist,3,154500
+AI Research Scientist,3,150500
+AI Research Scientist,3,148000
+AI Research Scientist,3,152000
+AI Research Scientist,4,170500
+AI Research Scientist,4,174500
+AI Research Scientist,4,174500
+AI Research Scientist,4,173000
+AI Research Scientist,4,167000
+AI Research Scientist,5,189500
+AI Research Scientist,5,187000
+AI Research Scientist,5,195000
+AI Research Scientist,5,194500
+AI Research Scientist,5,193500
+AI Research Scientist,6,212500
+AI Research Scientist,6,210000
+AI Research Scientist,6,214500
+AI Research Scientist,6,213000
+AI Research Scientist,6,213500
+AI Research Scientist,7,233000
+AI Research Scientist,7,230000
+AI Research Scientist,7,233500
+AI Research Scientist,7,228000
+AI Research Scientist,7,233500
+AI Research Scientist,8,254000
+AI Research Scientist,8,255000
+AI Research Scientist,8,250500
+AI Research Scientist,8,251500
+AI Research Scientist,8,248500
+AI Research Scientist,9,273500
+AI Research Scientist,9,273000
+AI Research Scientist,9,275000
+AI Research Scientist,9,270000
+AI Research Scientist,9,275500
+AI Research Scientist,10,296000
+AI Research Scientist,10,299000
+AI Research Scientist,10,291000
+AI Research Scientist,10,295500
+AI Research Scientist,10,296500
+Database Administrator,1,72500
+Database Administrator,1,68500
+Database Administrator,1,66500
+Database Administrator,1,68500
+Database Administrator,1,67000
+Database Administrator,2,78000
+Database Administrator,2,83000
+Database Administrator,2,80000
+Database Administrator,2,83000
+Database Administrator,2,79000
+Database Administrator,3,91000
+Database Administrator,3,91500
+Database Administrator,3,92500
+Database Administrator,3,93500
+Database Administrator,3,91500
+Database Administrator,4,102000
+Database Administrator,4,107000
+Database Administrator,4,103500
+Database Administrator,4,107000
+Database Administrator,4,104000
+Database Administrator,5,112500
+Database Administrator,5,119000
+Database Administrator,5,118500
+Database Administrator,5,117500
+Database Administrator,5,115500
+Database Administrator,6,128000
+Database Administrator,6,128000
+Database Administrator,6,125500
+Database Administrator,6,129500
+Database Administrator,6,124500
+Database Administrator,7,135500
+Database Administrator,7,141000
+Database Administrator,7,138500
+Database Administrator,7,139000
+Database Administrator,7,140000
+Database Administrator,8,153000
+Database Administrator,8,147500
+Database Administrator,8,152000
+Database Administrator,8,149000
+Database Administrator,8,150500
+Database Administrator,9,158500
+Database Administrator,9,162500
+Database Administrator,9,159000
+Database Administrator,9,159500
+Database Administrator,9,162000
+Database Administrator,10,173000
+Database Administrator,10,172500
+Database Administrator,10,172000
+Database Administrator,10,172000
+Database Administrator,10,171500
+Systems Engineer,1,72000
+Systems Engineer,1,72000
+Systems Engineer,1,71000
+Systems Engineer,1,68000
+Systems Engineer,1,69000
+Systems Engineer,2,84000
+Systems Engineer,2,80500
+Systems Engineer,2,81000
+Systems Engineer,2,82500
+Systems Engineer,2,83000
+Systems Engineer,3,96500
+Systems Engineer,3,94000
+Systems Engineer,3,92000
+Systems Engineer,3,92500
+Systems Engineer,3,96000
+Systems Engineer,4,104500
+Systems Engineer,4,104000
+Systems Engineer,4,105000
+Systems Engineer,4,107500
+Systems Engineer,4,110000
+Systems Engineer,5,120000
+Systems Engineer,5,120500
+Systems Engineer,5,117500
+Systems Engineer,5,119500
+Systems Engineer,5,118500
+Systems Engineer,6,134500
+Systems Engineer,6,132000
+Systems Engineer,6,132000
+Systems Engineer,6,129500
+Systems Engineer,6,133000
+Systems Engineer,7,142500
+Systems Engineer,7,143000
+Systems Engineer,7,141500
+Systems Engineer,7,142500
+Systems Engineer,7,143500
+Systems Engineer,8,158000
+Systems Engineer,8,154000
+Systems Engineer,8,156000
+Systems Engineer,8,155500
+Systems Engineer,8,156500
+Systems Engineer,9,168000
+Systems Engineer,9,172500
+Systems Engineer,9,170500
+Systems Engineer,9,167500
+Systems Engineer,9,166000
+Systems Engineer,10,184500
+Systems Engineer,10,185500
+Systems Engineer,10,182000
+Systems Engineer,10,181500
+Systems Engineer,10,182000
+Blockchain Developer,1,96000
+Blockchain Developer,1,90500
+Blockchain Developer,1,93500
+Blockchain Developer,1,91500
+Blockchain Developer,1,92500
+Blockchain Developer,2,105000
+Blockchain Developer,2,112500
+Blockchain Developer,2,108500
+Blockchain Developer,2,113500
+Blockchain Developer,2,110000
+Blockchain Developer,3,123500
+Blockchain Developer,3,129500
+Blockchain Developer,3,130000
+Blockchain Developer,3,124500
+Blockchain Developer,3,122500
+Blockchain Developer,4,142500
+Blockchain Developer,4,142500
+Blockchain Developer,4,144500
+Blockchain Developer,4,144500
+Blockchain Developer,4,145500
+Blockchain Developer,5,162500
+Blockchain Developer,5,160500
+Blockchain Developer,5,155500
+Blockchain Developer,5,157500
+Blockchain Developer,5,155500
+Blockchain Developer,6,179000
+Blockchain Developer,6,180000
+Blockchain Developer,6,180000
+Blockchain Developer,6,172000
+Blockchain Developer,6,173500
+Blockchain Developer,7,195500
+Blockchain Developer,7,198000
+Blockchain Developer,7,197000
+Blockchain Developer,7,196500
+Blockchain Developer,7,193500
+Blockchain Developer,8,208000
+Blockchain Developer,8,210000
+Blockchain Developer,8,208500
+Blockchain Developer,8,208500
+Blockchain Developer,8,215000
+Blockchain Developer,9,225000
+Blockchain Developer,9,230500
+Blockchain Developer,9,224500
+Blockchain Developer,9,232000
+Blockchain Developer,9,224000
+Blockchain Developer,10,240000
+Blockchain Developer,10,242500
+Blockchain Developer,10,244000
+Blockchain Developer,10,249500
+Blockchain Developer,10,241000
+UI/UX Designer,1,60000
+UI/UX Designer,1,60500
+UI/UX Designer,1,57500
+UI/UX Designer,1,56000
+UI/UX Designer,1,60000
+UI/UX Designer,2,67000
+UI/UX Designer,2,69000
+UI/UX Designer,2,70000
+UI/UX Designer,2,68500
+UI/UX Designer,2,70500
+UI/UX Designer,3,81000
+UI/UX Designer,3,75500
+UI/UX Designer,3,75500
+UI/UX Designer,3,75500
+UI/UX Designer,3,77500
+UI/UX Designer,4,89000
+UI/UX Designer,4,89500
+UI/UX Designer,4,86500
+UI/UX Designer,4,88000
+UI/UX Designer,4,87000
+UI/UX Designer,5,96500
+UI/UX Designer,5,99500
+UI/UX Designer,5,95000
+UI/UX Designer,5,95000
+UI/UX Designer,5,99000
+UI/UX Designer,6,107500
+UI/UX Designer,6,108500
+UI/UX Designer,6,107000
+UI/UX Designer,6,107500
+UI/UX Designer,6,110000
+UI/UX Designer,7,117000
+UI/UX Designer,7,118500
+UI/UX Designer,7,119000
+UI/UX Designer,7,116500
+UI/UX Designer,7,119500
+UI/UX Designer,8,127000
+UI/UX Designer,8,125000
+UI/UX Designer,8,128000
+UI/UX Designer,8,130500
+UI/UX Designer,8,130000
+UI/UX Designer,9,137500
+UI/UX Designer,9,135500
+UI/UX Designer,9,135000
+UI/UX Designer,9,136500
+UI/UX Designer,9,139000
+UI/UX Designer,10,150500
+UI/UX Designer,10,150000
+UI/UX Designer,10,148000
+UI/UX Designer,10,145500
+UI/UX Designer,10,147000
